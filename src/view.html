@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Discord Friend Network</title>
+        <script src="lib/vis-network.min.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body id="network-body">
+        <div class="header">
+            <div class="title">Discord Friend Network</div>
+            <div>
+                <span id="stats" class="stats">Nodes: 0 | Edges: 0</span>
+                <button id="refreshBtn" class="btn-refresh">Refresh</button>
+                <button id="settingsBtn" class="btn-settings">Settings</button>
+            </div>
+        </div>
+        <div id="network"></div>
+
+        <div id="context-menu" class="context-menu">
+            <button id="hideNodeBtn">Hide</button>
+            <button id="deleteNodeBtn">Delete</button>
+        </div>
+
+        <script src="view.js" defer></script>
+    </body>
+</html>

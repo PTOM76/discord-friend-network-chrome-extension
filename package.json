@@ -1,0 +1,33 @@
+{
+  "name": "discord-friend-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "watch": "webpack --watch --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PTOM76/discord-friend-network.git"
+  },
+  "keywords": [],
+  "author": "Pitan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PTOM76/discord-friend-network/issues"
+  },
+  "homepage": "https://github.com/PTOM76/discord-friend-network#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.1.32",
+    "copy-webpack-plugin": "^13.0.1",
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.3",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
