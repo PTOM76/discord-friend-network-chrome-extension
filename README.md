@@ -2,6 +2,8 @@
 Discord の共通フレンドのメッシュを作成する Chrome拡張機能<br>
 Geminiも開発の中で活用してみました。いわゆるバイブコーディングとかいうやつでしょうか。
 
+※ブラウザ版Discsordでのみ動作します。アプリ版では動作しません。
+
 ## ガイド
 ### 共通フレンドのメッシュを構築する方法
 拡張機能を導入後、Discordを開いてください。<br>
@@ -42,6 +44,8 @@ Chrome拡張機能のDiscord Friend Networkのアイコンをクリックして�
 # Discord Friend Network (English)
 A Chrome extension that creates a mesh of mutual friends on Discord.<br>
 I also utilized Gemini during development. This is what is commonly referred to as vibe coding.
+
+*Note: This only works on the browser version of Discord. It does not work on the app version.*
 
 ## Guide
 ### How to build a mesh of mutual friends
