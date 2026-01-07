@@ -1,3 +1,5 @@
+Privacy Policy https://gist.github.com/PTOM76/78a5b698ec28b0db7495c9d7f321b346
+
 # Discord Friend Network (日本語)
 Discord の共通フレンドのメッシュを作成する Chrome拡張機能<br>
 Geminiも開発の中で活用してみました。いわゆるバイブコーディングとかいうやつでしょうか。
